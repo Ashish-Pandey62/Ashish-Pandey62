@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Pandey</h1>
-<h3 align="center">Cmputer Science student at Pulchowk Engineering Campus</h3>
+<h3 align="center">Computer Science student at Pulchowk Engineering Campus</h3>
 
 - 🔭 I’m currently working on **ML**
 
