@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ML/DL**
 
-- 📫 How to reach me **ashishpandey62@gmail.com**
+- 📫 How to reach me **ashishpandey2062@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
