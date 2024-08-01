@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Pandey</h1>
-<h3 align="center">Cmputer Science student at Pulchowk Engineering Campus</h3>
+<h3 align="center">Computer Science student at Pulchowk Engineering Campus</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-pandey62&label=Profile%20views&color=0e75b6&style=plastic" alt="ashish-pandey62" /> </p>
 
