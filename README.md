@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-pandey62&label=Profile%20views&color=0e75b6&style=plastic" alt="ashish-pandey62" /> </p>
 
-- 🔭 I’m currently working on **ML**
+- 🔭 I’m currently working on **DL**
 
-- 👯 I’m looking to collaborate on **ML/DL**
+- 👯 I’m looking to collaborate on **ML/DL and backend engineering**
 
-- 💬 Ask me about **ML/DL**
+- 💬 Ask me about **ML/DL and backend engineering**
 
 - 📫 How to reach me **ashishpandey62@gmail.com**
 
