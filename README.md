@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1e3c72,100:2a5298&text=%20Ashish%20Pandey%20&fontColor=ffffff&fontAlignY=50&fontAlign=50&desc=ML%20%7C%20DL%20%7C%20Backend%20Engineering&descAlignY=75&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f0f0f,100:2a5298&text=Ashish%20Pandey&fontColor=ffffff&fontAlignY=40&desc=ML%20%7C%20DL%20%7C%20Backend%20Engineering&descAlignY=65" />
 </p>
 <h3 align="center">Computer Science student at Pulchowk Engineering Campus</h3>
 
