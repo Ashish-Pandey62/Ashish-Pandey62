@@ -22,5 +22,5 @@
 
 <h3 align="left">Tech Playground</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,opencv,tensorflow,pytorch,sklearn,mysql,git,c,cpp,react,js,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,opencv,tensorflow,pytorch,sklearn,mysql,postgresql,git,c,cpp,react,js,html,css,tailwind" />
 </p>
